@@ -62,72 +62,6 @@ Business Insights
 
 ---
 
-## 📌 Key Power BI Measures
-
-The dashboard includes business KPIs such as:
-
-- **Total Sales**
-- **Total Boxes**
-- **Total Costs**
-- **Total Profit**
-- **Profit %**
-- **Total Shipments**
-- **Monthly Sales Trend**
-- **Product Performance**
-- **Salesperson Performance**
-
----
-
-## 📊 Dashboard Features
-
-### 1. Sales Performance
-
-The dashboard provides high-level KPIs to quickly evaluate:
-
-- Total revenue generated
-- Total boxes sold
-- Total costs
-- Total profit
-- Overall profit percentage
-
-### 2. Monthly Sales Trend
-
-A line chart is used to analyze sales performance over time and identify:
-
-- Sales growth or decline
-- Seasonal patterns
-- High-performing months
-- Changes in revenue over the analysis period
-
-### 3. Product Analysis
-
-Product-level analysis helps identify:
-
-- Best-selling products
-- Products generating higher revenue
-- Shipment volume by product
-- Product profitability
-
-### 4. Salesperson Analysis
-
-The dashboard compares salespeople based on:
-
-- Sales generated
-- Shipment volume
-- Costs
-- Profitability
-- Profit percentage
-
-### 5. Category Analysis
-
-Interactive filtering allows users to analyze different chocolate categories and compare their contribution to overall sales.
-
-### 6. Geographic Analysis
-
-The geography slicer allows users to filter the dashboard and analyze sales performance across different markets.
-
----
-
 ## 📈 Key Findings
 
 Based on the provided dataset, the analysis contains approximately:
@@ -156,14 +90,6 @@ It can help business users:
 - Make faster, data-driven business decisions.
 
 ---
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `Chocolate_Sales Dashboard.pbix` using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Use the **Category** and **Geography** filters to explore the dashboard.
-5. Analyze sales, profitability, products, shipments, and salesperson performance.
 
 ---
 
