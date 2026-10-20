@@ -1,122 +1,68 @@
-# 🍫 Chocolate Sales Analytics Dashboard | Power BI
 
-## 📊 Project Overview
+# Chocolate Sales Analytics Dashboard Using Power BI
 
-The **Chocolate Sales Analytics Dashboard** is an interactive business intelligence project developed using **Microsoft Power BI** to analyze chocolate sales performance and generate actionable business insights.
+## Project Overview
+This project uses Power BI to analyze chocolate sales performance through interactive dashboards and visualizations. It focuses on sales, profit, costs, boxes sold, monthly trends, and performance across products, salespeople, and regions.
 
-The project uses transactional shipment data along with product, geography, salesperson, and calendar information to provide a comprehensive view of sales performance, profitability, shipment volume, product performance, and regional trends.
+## Business Problem
+Businesses need a clear view of sales performance to understand which products, salespeople, and regions contribute to overall results. This dashboard brings key sales metrics together to make performance analysis easier.
 
-The dashboard enables users to interactively filter and analyze business performance by **product category and geography**.
-
----
-
-## 🎯 Business Objective
-
-The main objective of this project is to transform raw chocolate sales data into an interactive Power BI dashboard that helps businesses:
-
-- Monitor overall sales and profitability.
-- Track shipment and box volumes.
-- Analyze product-level performance.
-- Compare salesperson performance.
-- Identify regional sales trends.
-- Monitor monthly sales performance.
-- Evaluate profit margins and operating costs.
-- Support data-driven sales and business decisions.
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Microsoft Power BI**
-- **Power Query**
-- **DAX**
-- **Microsoft Excel**
-- **Data Cleaning & Transformation**
-- **Data Modeling**
-- **Data Visualization**
-- **Business Intelligence / Sales Analytics**
-
----
-
-## 🔄 Data Analysis Workflow
-
-The project follows an end-to-end Power BI analytics workflow:
-
-```text
-Raw Excel Data
-      ↓
-Data Cleaning & Transformation
-      ↓
-Data Modeling
-      ↓
-Relationships & Calendar Table
-      ↓
-DAX Measures
-      ↓
-Interactive Visualizations
-      ↓
-Sales & Profitability Analysis
-      ↓
-Business Insights
-```
-
----
-
-## 📈 Key Findings
-
-Based on the provided dataset, the analysis contains approximately:
-
-- **6,113 shipment transactions**
-- **₹34.04M total sales**
-- **2.08M boxes sold**
-- **₹13.52M total costs**
-- **₹20.52M total profit**
-- **60.29% overall profit margin**
-
----
-
-## 💡 Business Impact
-
-The dashboard converts raw sales and shipment records into an interactive decision-support tool.
-
-It can help business users:
-
-- Identify high-performing products.
-- Understand sales trends.
-- Compare regional performance.
-- Evaluate salesperson contribution.
-- Monitor profitability.
-- Identify areas requiring sales improvement.
-- Make faster, data-driven business decisions.
-
----
-
----
-
-## 🎓 Skills Demonstrated
-
-This project demonstrates practical experience in:
-
-- Power BI Dashboard Development
+## Tools Used
+- Microsoft Power BI
+- Microsoft Excel
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Data Cleaning
 - Data Transformation
-- Data Modeling
-- KPI Development
-- Sales Analytics
-- Profitability Analysis
-- Time-Series Analysis
-- Interactive Data Visualization
-- Business Intelligence
-- Data-Driven Decision Making
+- Data Visualization
+- KPI Reporting
 
----
+## Data Preparation
+- Imported sales data into Power BI.
+- Used Power Query for data cleaning and transformation.
+- Prepared data fields for sales and profit analysis.
+- Organized the data to support KPI calculations and dashboard visualizations.
 
-## 🏁 Conclusion
+## Analysis
+- Monitored sales, profit, costs, and boxes sold.
+- Analyzed monthly sales trends.
+- Compared product and salesperson performance.
+- Examined regional sales performance.
+- Created interactive visualizations to support business reporting.
 
-The Chocolate Sales Analytics Dashboard demonstrates how raw transactional sales data can be transformed into an interactive business intelligence solution using Power BI.
+## Key Insights
+- Identified top-performing products and categories.
+- Compared sales performance across salespeople and regions.
+- Examined monthly sales trends to understand changes in performance.
+- Presented sales and profit indicators through an interactive dashboard.
 
-By combining data transformation, data modeling, DAX measures, KPIs, interactive filters, and visual analytics, the project provides a clear view of sales performance, profitability, product contribution, shipment volume, salesperson performance, and geographic trends.
+## Business Recommendations
+- Review top-performing products to identify opportunities for further growth.
+- Investigate lower-performing products and regions for possible improvement.
+- Use monthly sales trends to support sales planning.
+- Monitor sales and profit KPIs regularly to support business decisions.
 
-The dashboard enables stakeholders to quickly identify important sales patterns and use data-driven insights to support business and sales decisions.
+## Dashboard Preview
+Add a screenshot of your actual Power BI dashboard here.
+
+![Chocolate Sales Dashboard Preview](Chocolate Sales Dashboard.png)
+
+## How to Access
+1. Open this GitHub repository.
+2. Download the Power BI report file if it is available.
+3. Open the file using Power BI Desktop.
+4. Refresh the data if required.
+5. Explore the dashboard visuals and available filters.
+
+## Conclusion
+This project demonstrates how Power BI, Power Query, and DAX can be used to transform sales data into interactive reports. The dashboard supports sales performance monitoring and helps users explore product, salesperson, regional, and monthly trends.
+
+## Skills Demonstrated
+Power BI, DAX, Power Query, Excel, Data Cleaning, Data Transformation, Data Analysis, Data Visualization, Dashboard Development, Business Intelligence.
+
+## Author
+Venkata Sai Varma
+
+GitHub: https://github.com/Varma1369
+
+LinkedIn: https://www.linkedin.com/in/venkata-sai-varma-kanumuri-29b254274
